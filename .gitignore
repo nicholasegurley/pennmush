@@ -61,3 +61,4 @@ __pycache__/
 # Custom backups
 *.old
 *.orig
+game/space_install.expect
